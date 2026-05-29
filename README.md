@@ -1,1 +1,1 @@
-test
+CHEMDFM finetuned on odor dataset.
