@@ -1,4 +1,4 @@
-smiles,prompt,completion,chemdfm_text
+﻿smiles,prompt,completion,chemdfm_text
 CCCC(S)CC=O,What are the primary odors and sub-odors of this molecule: CCCC(S)CC=O?,"The primary odors present in this molecule are: Septic, Fruity, Nature, Vegetables, Lemon, Sulp, Green, Alliaceous, Sweet, Marshy, Fragrant, Sickening. The sub-odors are: Onion, Tropical, Citrus, Green, Fruity.","[Round 0]
 Human: What are the primary odors and sub-odors of this molecule: CCCC(S)CC=O?
 Assistant: The primary odors present in this molecule are: Septic, Fruity, Nature, Vegetables, Lemon, Sulp, Green, Alliaceous, Sweet, Marshy, Fragrant, Sickening. The sub-odors are: Onion, Tropical, Citrus, Green, Fruity."

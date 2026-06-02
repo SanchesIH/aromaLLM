@@ -1,2 +1,2 @@
-test_loss,test_perplexity
-0.6664749979972839,1.9473607540130615
+test_loss,test_accuracy,test_entropy
+9.287162780761719,0,0

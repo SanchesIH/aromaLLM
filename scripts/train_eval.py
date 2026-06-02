@@ -1,3 +1,8 @@
+"""
+THIS SCRIPT IS DIRECTLY PULLING FROM THE LOG FILES (results/checkpoint-516/trainer_state.json)
+GENERATED THROUGHOUT THE FINE TUNING PROCESS, IT DOES NOT NEED TO USE 
+THE test.csv FILE.
+"""
 import os
 import json
 import matplotlib.pyplot as plt
